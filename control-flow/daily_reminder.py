@@ -26,5 +26,5 @@ if time_bound == "yes":
 else:
     reminder += ". Consider completing it when you have free time."
 
-# طباعة التذكير النهائي
-print("\nReminder:", reminder)
+# طباعة التذكير النهائي بالصيغة المطلوبة للاختبار
+print(f"Reminder: {reminder}")
